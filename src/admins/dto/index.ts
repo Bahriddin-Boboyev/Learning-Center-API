@@ -1,0 +1,6 @@
+export * from './create-admin.dto'
+export * from './forgot-password.dto'
+export * from './login-admin.dto'
+export * from './otp.dto'
+export * from './update-admin.dto'
+export * from './updatePass.dto'
